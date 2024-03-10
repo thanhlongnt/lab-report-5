@@ -78,7 +78,8 @@ class ListExamples {
 ```
 
 Command line ran to trigger bug:
-`bash test.sh` where `test.sh` contains
+
+`bash test.sh`, where `test.sh` contains
 ```
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
