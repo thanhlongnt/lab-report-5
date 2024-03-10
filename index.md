@@ -15,7 +15,8 @@ Student: I just checked them and it turns out that in the last while loop on lin
 ![Image](Code-success.png)
 ![Image](Terminal-output-success1.png)
 
-Set up Info:
+**Set up Info:**
+
 Directory structure:
 ```
 thanhlongnt@Thanh-Longs-MacBook-Pro lab7 % ls
