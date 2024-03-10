@@ -11,6 +11,7 @@ Here are screenshots of my code, tests, and the failed tests output:
 TA: Hello! Have you checked that all of your variables are properly named and that there are no typos? 
 
 Student: I just checked them and it turns out that on the last while loop I typed index1 instead of index2. I was able to fix it and my tests work. Thank you so much!
+
 ![Image](Code-success.png)
 ![Image](Terminal-output-success1.png)
 
