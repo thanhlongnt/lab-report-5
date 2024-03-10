@@ -4,16 +4,15 @@
 Student: Hello! I am having trouble with my 'merge' method that takes in two lists and merges them in a sorted order, but when I test it using bash test.sh, it always fails and produces the wrong output, and I can't find the reason why. and I was wondering if I could get some help. 
 
 Here are screenshots of my code, tests, and the failed tests output:
-![Image](Code-bug.png)
+![Image](Code-bug2.png)
 ![Image](Test-file.png)
 ![Image](Terminal-output-bug.png)
 
 TA: Hello! Have you checked that all of your variables are properly named and that there are no typos? 
 
 Student: I just checked them and it turns out that on the last while loop I typed index1 instead of index2. I was able to fix it and my tests work. Thank you so much!
-ss
-ss
-
+![Image](Code-success)
+![Image](Terminal-output-success1)
 
 ## Part 2: What I learned 2nd half of quarter
   The main new thing that I learned from this quarter were bash commands, shell files, vim, and the java debugger. I found that it was really cool that we could write out all the commands that we wanted to run in a file then just call it to run our programs, it really saves a lot of time from always having to search up lengthy commands that I don't remember such as the commands to run JUnit tests. 
