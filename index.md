@@ -16,6 +16,8 @@ ss
 
 ## Part 2: What I learned 2nd half of quarter
   The main new thing that I learned from this quarter were bash commands, shell files, vim, and the java debugger. I found that it was really cool that we could write out all the commands that we wanted to run in a file then just call it to run our programs, it really saves a lot of time from always having to search up lengthy commands that I don't remember such as the commands to run JUnit tests. 
+  
   Vim is definitely an interesting way to make edits to a file from the terminal, and it is certainly tedious to learn all the commands. However after getting used to some of the basic commands I can see the intentions of the makers of vim. Even so I will stick to using nano because of it's easy to use format.
+  
   I knew that most IDEs had debuggers to debug programs, but I never knew that you could do the same thing in the terminal. Now I know how to debug my code if I am ever writing code on a virtual machine. However, because I can't see my code while the debugger is running (or at least have't learned how to yet), I think that I will stick is the VS Code/IDE debugger.
 
