@@ -17,6 +17,8 @@ Student: I just checked them and it turns out that on the last while loop I type
 ![Image](Code-success.png)
 ![Image](Terminal-output-success1.png)
 
+### Set up Info
+
 ## Part 2: What I learned 2nd half of quarter
   The main new thing that I learned from this quarter were bash commands, shell files, vim, and the java debugger. I found that it was really cool that we could write out all the commands that we wanted to run in a file then just call it to run our programs, it really saves a lot of time from always having to search up lengthy commands that I don't remember such as the commands to run JUnit tests. 
   
