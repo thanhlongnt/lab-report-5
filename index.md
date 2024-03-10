@@ -3,12 +3,7 @@
 ## Part 1
 Student: Hello! I am having trouble with my 'merge' method that takes in two lists and merges them in a sorted order, but when I test it using bash test.sh, it always fails and produces the wrong output, and I can't find the reason why. and I was wondering if I could get some help.
 
-My directory structure consists of
--lab7
-  -lib
-  -ListExamples.java
-  -ListExamplesTests.java
-  -test.sh
+My directory structure consists of a lab7 folder containing ListExamples.java, ListExamplesTests.java, test.sh, and a lib folder.
 
 Here are screenshots of my code, tests, and the failed tests output:
 ![Image](Code-bug2.png)
