@@ -87,6 +87,8 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 
 What edit was needed to fix the bug:
 
+On line 44, `index1` was replaced with `index2`. This is because the while loop is supposed to update `index2` not `index1`, otherwise we would get an infinite loop as experienced by the student above.
+
 
 
 ## Part 2: What I learned 2nd half of quarter
