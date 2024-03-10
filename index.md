@@ -1,11 +1,12 @@
 # Lab Report 5
 
 ## Part 1
-Student: Hello! I am having trouble with my 'merge' method that takes in two lists and merges them in a sorted order, but when I test it using `bash test.sh` , it always fails and produces the wrong output, and I can't find the reason why. and I was wondering if I could get some help. 
+Student: Hello! I am having trouble with my 'merge' method that takes in two lists and merges them in a sorted order, but when I test it using bash test.sh, it always fails and produces the wrong output, and I can't find the reason why. and I was wondering if I could get some help. 
 
-Here are screenshots of my code and the failed tests:
-ss
-ss
+Here are screenshots of my code, tests, and the failed tests output:
+![Image](Code-bug.png)
+![Image](Test-file.png)
+![Image](Terminal-output-bug.png)
 
 TA: Hello! Have you checked that all of your variables are properly named and that there are no typos? 
 
