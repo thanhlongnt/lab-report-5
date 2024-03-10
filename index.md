@@ -5,7 +5,7 @@ Student: Hello! I am having trouble with my 'merge' method that takes in two lis
 
 My directory structure consists of a lab7 folder containing ListExamples.java, ListExamplesTests.java, test.sh, and a lib folder.
 
-Here are screenshots of my code, tests, and the failed tests output:
+Here are screenshots of my buggy code, failed test code, and the failed tests output:
 ![Image](Code-bug2.png)
 ![Image](Test-file.png)
 ![Image](Terminal-output-bug.png)
